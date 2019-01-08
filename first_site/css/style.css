@@ -1,0 +1,70 @@
+
+/* Первая секция*/
+
+body {
+
+	background-color: #eef7f6;
+
+}
+
+.header {
+
+	
+	background-color: rgb(211, 231, 228, 0.2);
+	box-shadow: 0 0 5px 2px;
+}
+
+/*Вторая секция*/
+
+.row_text {
+    color: white;
+	text-shadow: 1px 1px #732372, 1px -1px #732372, -1px 1px #732372, -1px -1px #732372, 3px 3px 6px rgba(0,0,0,.5);
+	margin-top: 50px;
+}
+
+h4 {
+
+	margin-top: 20px;
+}
+
+
+/*Третья секция*/
+
+
+.form-control {
+
+	margin-top: 20px;
+
+}
+
+
+.btn {
+
+	margin-top: 20px;
+}
+
+
+.form {
+    padding: 20px;
+	margin-top: 265px;
+	box-shadow: 0 0 30px 2px;
+}
+
+
+.col-lg-2 {
+    
+    margin-top: 100px;
+    margin-bottom: 100px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
